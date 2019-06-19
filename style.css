@@ -29,6 +29,7 @@ ul {
 }
 
 header {
+    background-color: lightblue;
     color: #ffffff;
     padding-top: 20px;
     min-height: 70px;
